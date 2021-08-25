@@ -1,0 +1,16 @@
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\bin\Debug\net5.0\Pruebas.exe
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\bin\Debug\net5.0\Pruebas.deps.json
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\bin\Debug\net5.0\Pruebas.runtimeconfig.json
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\bin\Debug\net5.0\Pruebas.runtimeconfig.dev.json
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\bin\Debug\net5.0\Pruebas.dll
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\bin\Debug\net5.0\ref\Pruebas.dll
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\bin\Debug\net5.0\Pruebas.pdb
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\obj\Debug\net5.0\Pruebas.csprojAssemblyReference.cache
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\obj\Debug\net5.0\Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\obj\Debug\net5.0\Pruebas.AssemblyInfoInputs.cache
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\obj\Debug\net5.0\Pruebas.AssemblyInfo.cs
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\obj\Debug\net5.0\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\obj\Debug\net5.0\Pruebas.dll
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\obj\Debug\net5.0\ref\Pruebas.dll
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\obj\Debug\net5.0\Pruebas.pdb
+C:\Users\curiell\Documents\Pruebas\PruebasUserName\Pruebas\obj\Debug\net5.0\Pruebas.genruntimeconfig.cache
